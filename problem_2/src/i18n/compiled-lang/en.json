@@ -1,0 +1,396 @@
+{
+  "+ItHkV": [
+    {
+      "type": 0,
+      "value": "just now"
+    }
+  ],
+  "+tURWE": [
+    {
+      "type": 0,
+      "value": "Search tokens"
+    }
+  ],
+  "0tv7cX": [
+    {
+      "type": 0,
+      "value": "Swap direction"
+    }
+  ],
+  "4HC6yK": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": "m ago"
+    }
+  ],
+  "4a8Exf": [
+    {
+      "type": 0,
+      "value": "Swap settings"
+    }
+  ],
+  "4uh7QL": [
+    {
+      "type": 0,
+      "value": "High slippage. Your transaction may be front-run."
+    }
+  ],
+  "6SZ0YD": [
+    {
+      "type": 0,
+      "value": "No swaps yet. Your recent activity will appear here."
+    }
+  ],
+  "6mZ6+5": [
+    {
+      "type": 0,
+      "value": "USD price"
+    }
+  ],
+  "6w0yi5": [
+    {
+      "type": 0,
+      "value": "Slippage tolerance"
+    }
+  ],
+  "9pUh2P": [
+    {
+      "type": 0,
+      "value": "Amount must be greater than zero"
+    }
+  ],
+  "AHzvcj": [
+    {
+      "type": 0,
+      "value": "Retry"
+    }
+  ],
+  "BFUV0K": [
+    {
+      "type": 0,
+      "value": "Fee"
+    }
+  ],
+  "CNGZdo": [
+    {
+      "type": 0,
+      "value": "Custom slippage percent"
+    }
+  ],
+  "DmFZvt": [
+    {
+      "type": 0,
+      "value": "No tokens match."
+    }
+  ],
+  "DnCaMe": [
+    {
+      "type": 0,
+      "value": "Failed to load token prices."
+    }
+  ],
+  "E0N3yR": [
+    {
+      "type": 0,
+      "value": "1 "
+    },
+    {
+      "type": 1,
+      "value": "symbol"
+    },
+    {
+      "type": 0,
+      "value": " = "
+    },
+    {
+      "type": 1,
+      "value": "price"
+    }
+  ],
+  "GqLgsv": [
+    {
+      "type": 0,
+      "value": "Open settings"
+    }
+  ],
+  "IIXwk3": [
+    {
+      "type": 0,
+      "value": "Slippage tolerance"
+    }
+  ],
+  "IN2y+L": [
+    {
+      "type": 0,
+      "value": "From and To tokens must differ"
+    }
+  ],
+  "JE84NV": [
+    {
+      "type": 0,
+      "value": "Select a token"
+    }
+  ],
+  "JY46nI": [
+    {
+      "type": 0,
+      "value": "Select"
+    }
+  ],
+  "KVLPB6": [
+    {
+      "type": 0,
+      "value": "Clear"
+    }
+  ],
+  "KyBgJH": [
+    {
+      "type": 0,
+      "value": "Swap failed"
+    }
+  ],
+  "OG/iZT": [
+    {
+      "type": 1,
+      "value": "fromAmount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "fromSymbol"
+    },
+    {
+      "type": 0,
+      "value": " → "
+    },
+    {
+      "type": 1,
+      "value": "toAmount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "toSymbol"
+    }
+  ],
+  "Omgb2y": [
+    {
+      "type": 0,
+      "value": "Prices via "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "PSQbpp": [
+    {
+      "type": 0,
+      "value": "Swap successful"
+    }
+  ],
+  "PyDwDF": [
+    {
+      "type": 0,
+      "value": "Close"
+    }
+  ],
+  "SSXB4O": [
+    {
+      "type": 0,
+      "value": "Fee basis points"
+    }
+  ],
+  "USR5Zf": [
+    {
+      "type": 0,
+      "value": "Switch to dark mode"
+    }
+  ],
+  "Ui9+S8": [
+    {
+      "type": 0,
+      "value": "Enter an amount"
+    }
+  ],
+  "Wz3U7N": [
+    {
+      "type": 0,
+      "value": "Recent swaps"
+    }
+  ],
+  "Y9S7ro": [
+    {
+      "type": 0,
+      "value": "Invert exchange rate"
+    }
+  ],
+  "aAX6Iu": [
+    {
+      "type": 1,
+      "value": "pct"
+    },
+    {
+      "type": 0,
+      "value": "% ("
+    },
+    {
+      "type": 1,
+      "value": "amount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "symbol"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "b7Olly": [
+    {
+      "type": 0,
+      "value": "Swap confirmed"
+    }
+  ],
+  "cQvhkk": [
+    {
+      "type": 0,
+      "value": "Minimum received"
+    }
+  ],
+  "fv+SSM": [
+    {
+      "type": 0,
+      "value": "Select a token to swap from"
+    }
+  ],
+  "i1e5WZ": [
+    {
+      "type": 0,
+      "value": "Output value"
+    }
+  ],
+  "ilqowM": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": "h ago"
+    }
+  ],
+  "llgjmr": [
+    {
+      "type": 0,
+      "value": "You pay"
+    }
+  ],
+  "mRTCJQ": [
+    {
+      "type": 0,
+      "value": "Mock swap — no funds will be transferred."
+    }
+  ],
+  "oUk+sA": [
+    {
+      "type": 0,
+      "value": "Done"
+    }
+  ],
+  "qY91ta": [
+    {
+      "type": 0,
+      "value": "Amount must be a number"
+    }
+  ],
+  "r4sRni": [
+    {
+      "type": 0,
+      "value": "Protocol fee"
+    }
+  ],
+  "rQzqho": [
+    {
+      "type": 0,
+      "value": "You receive"
+    }
+  ],
+  "rwN8Rs": [
+    {
+      "type": 0,
+      "value": "Swap"
+    }
+  ],
+  "sFtvym": [
+    {
+      "type": 0,
+      "value": "Switch to light mode"
+    }
+  ],
+  "sMlSSp": [
+    {
+      "type": 0,
+      "value": "Trade tokens instantly"
+    }
+  ],
+  "t165/R": [
+    {
+      "type": 0,
+      "value": "Confirming swap..."
+    }
+  ],
+  "vbOeak": [
+    {
+      "type": 0,
+      "value": "Confirm swap"
+    }
+  ],
+  "vd+yX/": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
+  "wG1pth": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": "d ago"
+    }
+  ],
+  "wUK/Ox": [
+    {
+      "type": 0,
+      "value": "Select a token to swap to"
+    }
+  ],
+  "zykBLk": [
+    {
+      "type": 0,
+      "value": "Search by symbol..."
+    }
+  ]
+}

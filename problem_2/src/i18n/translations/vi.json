@@ -1,0 +1,64 @@
+{
+  "Swap": "Hoán đổi",
+  "Trade tokens instantly": "Giao dịch token tức thì",
+  "Mock swap — no funds will be transferred.": "Hoán đổi giả lập — không có giao dịch thực tế.",
+  "Prices via {link}.": "Giá lấy từ {link}.",
+
+  "You pay": "Bạn trả",
+  "You receive": "Bạn nhận",
+  "Select": "Chọn",
+  "1 {symbol} = {price}": "1 {symbol} = {price}",
+
+  "Select a token": "Chọn token",
+  "Search by symbol...": "Tìm theo ký hiệu...",
+  "Search tokens": "Tìm token",
+  "No tokens match.": "Không có token phù hợp.",
+  "USD price": "Giá USD",
+  "Close": "Đóng",
+
+  "Invert exchange rate": "Đảo tỷ giá",
+  "Fee": "Phí",
+  "Slippage tolerance": "Độ trượt giá cho phép",
+  "Minimum received": "Nhận tối thiểu",
+  "Output value": "Giá trị nhận",
+  "{pct}% ({amount} {symbol})": "{pct}% ({amount} {symbol})",
+
+  "Confirm swap": "Xác nhận hoán đổi",
+  "Confirming swap...": "Đang xử lý...",
+  "Swap successful": "Hoán đổi thành công",
+
+  "Swap confirmed": "Đã xác nhận hoán đổi",
+  "{fromAmount} {fromSymbol} → {toAmount} {toSymbol}": "{fromAmount} {fromSymbol} → {toAmount} {toSymbol}",
+  "Swap failed": "Hoán đổi thất bại",
+
+  "Select a token to swap from": "Chọn token để hoán đổi từ",
+  "Select a token to swap to": "Chọn token để hoán đổi sang",
+  "Enter an amount": "Nhập số lượng",
+  "Amount must be greater than zero": "Số lượng phải lớn hơn 0",
+  "Amount must be a number": "Số lượng phải là số",
+  "From and To tokens must differ": "Token đầu vào và đầu ra phải khác nhau",
+
+  "Swap settings": "Cài đặt hoán đổi",
+  "Custom slippage percent": "Tự nhập độ trượt giá",
+  "Protocol fee": "Phí giao thức",
+  "Fee basis points": "Phí (điểm cơ bản)",
+  "High slippage. Your transaction may be front-run.": "Độ trượt giá cao. Giao dịch có thể bị front-run.",
+  "Done": "Xong",
+
+  "Recent swaps": "Lịch sử gần đây",
+  "Clear": "Xóa",
+  "No swaps yet. Your recent activity will appear here.": "Chưa có giao dịch. Hoạt động gần đây sẽ hiển thị ở đây.",
+  "just now": "vừa xong",
+  "{n}m ago": "{n} phút trước",
+  "{n}h ago": "{n} giờ trước",
+  "{n}d ago": "{n} ngày trước",
+
+  "Failed to load token prices.": "Không tải được giá token.",
+  "Retry": "Thử lại",
+
+  "Swap direction": "Đảo chiều hoán đổi",
+  "Open settings": "Mở cài đặt",
+  "Switch to light mode": "Chuyển sang chế độ sáng",
+  "Switch to dark mode": "Chuyển sang chế độ tối",
+  "Language": "Ngôn ngữ"
+}

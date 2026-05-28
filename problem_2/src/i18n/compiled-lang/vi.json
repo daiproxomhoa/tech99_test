@@ -1,0 +1,396 @@
+{
+  "+ItHkV": [
+    {
+      "type": 0,
+      "value": "vừa xong"
+    }
+  ],
+  "+tURWE": [
+    {
+      "type": 0,
+      "value": "Tìm token"
+    }
+  ],
+  "0tv7cX": [
+    {
+      "type": 0,
+      "value": "Đảo chiều hoán đổi"
+    }
+  ],
+  "4HC6yK": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " phút trước"
+    }
+  ],
+  "4a8Exf": [
+    {
+      "type": 0,
+      "value": "Cài đặt hoán đổi"
+    }
+  ],
+  "4uh7QL": [
+    {
+      "type": 0,
+      "value": "Độ trượt giá cao. Giao dịch có thể bị front-run."
+    }
+  ],
+  "6SZ0YD": [
+    {
+      "type": 0,
+      "value": "Chưa có giao dịch. Hoạt động gần đây sẽ hiển thị ở đây."
+    }
+  ],
+  "6mZ6+5": [
+    {
+      "type": 0,
+      "value": "Giá USD"
+    }
+  ],
+  "6w0yi5": [
+    {
+      "type": 0,
+      "value": "Độ trượt giá cho phép"
+    }
+  ],
+  "9pUh2P": [
+    {
+      "type": 0,
+      "value": "Số lượng phải lớn hơn 0"
+    }
+  ],
+  "AHzvcj": [
+    {
+      "type": 0,
+      "value": "Thử lại"
+    }
+  ],
+  "BFUV0K": [
+    {
+      "type": 0,
+      "value": "Phí"
+    }
+  ],
+  "CNGZdo": [
+    {
+      "type": 0,
+      "value": "Tự nhập độ trượt giá"
+    }
+  ],
+  "DmFZvt": [
+    {
+      "type": 0,
+      "value": "Không có token phù hợp."
+    }
+  ],
+  "DnCaMe": [
+    {
+      "type": 0,
+      "value": "Không tải được giá token."
+    }
+  ],
+  "E0N3yR": [
+    {
+      "type": 0,
+      "value": "1 "
+    },
+    {
+      "type": 1,
+      "value": "symbol"
+    },
+    {
+      "type": 0,
+      "value": " = "
+    },
+    {
+      "type": 1,
+      "value": "price"
+    }
+  ],
+  "GqLgsv": [
+    {
+      "type": 0,
+      "value": "Mở cài đặt"
+    }
+  ],
+  "IIXwk3": [
+    {
+      "type": 0,
+      "value": "Độ trượt giá cho phép"
+    }
+  ],
+  "IN2y+L": [
+    {
+      "type": 0,
+      "value": "Token đầu vào và đầu ra phải khác nhau"
+    }
+  ],
+  "JE84NV": [
+    {
+      "type": 0,
+      "value": "Chọn token"
+    }
+  ],
+  "JY46nI": [
+    {
+      "type": 0,
+      "value": "Chọn"
+    }
+  ],
+  "KVLPB6": [
+    {
+      "type": 0,
+      "value": "Xóa"
+    }
+  ],
+  "KyBgJH": [
+    {
+      "type": 0,
+      "value": "Hoán đổi thất bại"
+    }
+  ],
+  "OG/iZT": [
+    {
+      "type": 1,
+      "value": "fromAmount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "fromSymbol"
+    },
+    {
+      "type": 0,
+      "value": " → "
+    },
+    {
+      "type": 1,
+      "value": "toAmount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "toSymbol"
+    }
+  ],
+  "Omgb2y": [
+    {
+      "type": 0,
+      "value": "Giá lấy từ "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "PSQbpp": [
+    {
+      "type": 0,
+      "value": "Hoán đổi thành công"
+    }
+  ],
+  "PyDwDF": [
+    {
+      "type": 0,
+      "value": "Đóng"
+    }
+  ],
+  "SSXB4O": [
+    {
+      "type": 0,
+      "value": "Phí (điểm cơ bản)"
+    }
+  ],
+  "USR5Zf": [
+    {
+      "type": 0,
+      "value": "Chuyển sang chế độ tối"
+    }
+  ],
+  "Ui9+S8": [
+    {
+      "type": 0,
+      "value": "Nhập số lượng"
+    }
+  ],
+  "Wz3U7N": [
+    {
+      "type": 0,
+      "value": "Lịch sử gần đây"
+    }
+  ],
+  "Y9S7ro": [
+    {
+      "type": 0,
+      "value": "Đảo tỷ giá"
+    }
+  ],
+  "aAX6Iu": [
+    {
+      "type": 1,
+      "value": "pct"
+    },
+    {
+      "type": 0,
+      "value": "% ("
+    },
+    {
+      "type": 1,
+      "value": "amount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "symbol"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "b7Olly": [
+    {
+      "type": 0,
+      "value": "Đã xác nhận hoán đổi"
+    }
+  ],
+  "cQvhkk": [
+    {
+      "type": 0,
+      "value": "Nhận tối thiểu"
+    }
+  ],
+  "fv+SSM": [
+    {
+      "type": 0,
+      "value": "Chọn token để hoán đổi từ"
+    }
+  ],
+  "i1e5WZ": [
+    {
+      "type": 0,
+      "value": "Giá trị nhận"
+    }
+  ],
+  "ilqowM": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " giờ trước"
+    }
+  ],
+  "llgjmr": [
+    {
+      "type": 0,
+      "value": "Bạn trả"
+    }
+  ],
+  "mRTCJQ": [
+    {
+      "type": 0,
+      "value": "Hoán đổi giả lập — không có giao dịch thực tế."
+    }
+  ],
+  "oUk+sA": [
+    {
+      "type": 0,
+      "value": "Xong"
+    }
+  ],
+  "qY91ta": [
+    {
+      "type": 0,
+      "value": "Số lượng phải là số"
+    }
+  ],
+  "r4sRni": [
+    {
+      "type": 0,
+      "value": "Phí giao thức"
+    }
+  ],
+  "rQzqho": [
+    {
+      "type": 0,
+      "value": "Bạn nhận"
+    }
+  ],
+  "rwN8Rs": [
+    {
+      "type": 0,
+      "value": "Hoán đổi"
+    }
+  ],
+  "sFtvym": [
+    {
+      "type": 0,
+      "value": "Chuyển sang chế độ sáng"
+    }
+  ],
+  "sMlSSp": [
+    {
+      "type": 0,
+      "value": "Giao dịch token tức thì"
+    }
+  ],
+  "t165/R": [
+    {
+      "type": 0,
+      "value": "Đang xử lý..."
+    }
+  ],
+  "vbOeak": [
+    {
+      "type": 0,
+      "value": "Xác nhận hoán đổi"
+    }
+  ],
+  "vd+yX/": [
+    {
+      "type": 0,
+      "value": "Ngôn ngữ"
+    }
+  ],
+  "wG1pth": [
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " ngày trước"
+    }
+  ],
+  "wUK/Ox": [
+    {
+      "type": 0,
+      "value": "Chọn token để hoán đổi sang"
+    }
+  ],
+  "zykBLk": [
+    {
+      "type": 0,
+      "value": "Tìm theo ký hiệu..."
+    }
+  ]
+}

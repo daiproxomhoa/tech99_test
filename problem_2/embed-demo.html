@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>swap-widget embed demo</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 0;
+      padding: 32px;
+      background: #f6f7fb;
+      color: #111;
+    }
+
+    h1 {
+      font-size: 20px;
+      margin: 0 0 8px;
+    }
+
+    p {
+      margin: 0 0 24px;
+      color: #555;
+    }
+
+    .grid {
+      display: grid;
+      gap: 32px;
+      max-width: 1100px;
+      margin: 0 auto;
+      grid-template-columns: 1fr;
+    }
+
+    @media (min-width: 900px) {
+      .grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .panel {
+      background: #fff;
+      border: 1px solid #e3e5ed;
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    code {
+      background: #eef0f6;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 13px;
+    }
+
+    .wrapper {
+      --swap-theme: auto;
+      border-radius: 28px;
+      overflow: hidden;
+      max-width: 440px;
+      margin: 0 auto;
+    }
+
+    /* Host retheme via CSS custom properties (HSL triplets, no hsl() wrapper) */
+    .branded swap-widget {
+      --swap-accent: 14 90% 55%;
+      --swap-accent-dark: 14 90% 60%;
+      --swap-bg: 30 30% 97%;
+      --swap-bg-dark: 20 20% 8%;
+      --swap-radius: 20px;
+      max-width: 340px;
+      margin: 0 auto;
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+    }
+  </style>
+</head>
+
+<body>
+  <h1>swap-widget — drop-in embed demo</h1>
+  <p>
+    Embed by adding the script tag, then placing
+    <code>&lt;swap-widget&gt;&lt;/swap-widget&gt;</code> anywhere.
+  </p>
+
+  <div class="grid">
+    <div class="panel">
+      <h2><code>theme="auto"</code> (follows OS)</h2>
+      <swap-widget class="wrapper"></swap-widget>
+    </div>
+
+    <div class=" panel">
+      <h2><code>theme="dark"</code></h2>
+      <swap-widget class="wrapper" theme="dark"></swap-widget>
+    </div>
+
+    <div class="panel">
+      <h2><code>theme="light"</code></h2>
+      <swap-widget class="wrapper" theme="light"></swap-widget>
+    </div>
+
+    <div class="panel branded">
+      <h2>Host-themed via CSS vars</h2>
+      <swap-widget></swap-widget>
+    </div>
+  </div>
+
+  <script src="./dist/embed/swap.iife.js"></script>
+</body>
+
+</html>
